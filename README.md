@@ -50,6 +50,7 @@ For security and licensing reasons, the API Key has been omitted. To run this ap
 
 ### 🤝 Connect with Me
 * [LinkedIn](https://linkedin.com/in/agaabdelgawad)
+* [YouTube Channel](https://youtube.com/c/AhmedGamalAbdelGawad)
 * [GitHub Profile](https://github.com/agaabdelgawad)
 
 ---
